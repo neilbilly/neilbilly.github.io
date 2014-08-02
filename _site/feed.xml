@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neil&#39;s GitHub Blog</title>
+    <description></description>
+    <link>http://neilbilly.github.io/</link>
+    <atom:link href="http://neilbilly.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 02 Aug 2014 03:00:47 +0100</pubDate>
+    <lastBuildDate>Sat, 02 Aug 2014 03:00:47 +0100</lastBuildDate>
+    <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Blogging with Jekyll</title>
+        <description>&lt;p&gt;So I’ve been looking at Jekyll. What a refreshing idea. I’ve been working with web tech for so long that a dynamic site with a database backend was a given, but it’s good to revisit things sometimes. I’m liking the Jekyll philosophy at them moment, let see how things go :)&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Aug 2014 03:23:41 +0100</pubDate>
+        <link>http://neilbilly.github.io/jekyll/update/2014/08/02/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://neilbilly.github.io/jekyll/update/2014/08/02/welcome-to-jekyll/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>

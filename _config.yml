@@ -1,0 +1,12 @@
+# Site settings
+title: Neil's GitHub Blog
+email: neil.billingham@me.com
+description: ""
+baseurl: ""
+url: "http://neilbilly.github.io"
+twitter_username: neilbilly
+github_username:  neilbilly
+
+# Build settings
+markdown: kramdown
+permalink: pretty
